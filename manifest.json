@@ -1,0 +1,10 @@
+{
+    "Name": "My First Stardew Mod CBG",
+    "Author": "Christian Guiang",
+    "Version": "1.0.0",
+    "Description": "Let's try something simple, like changing text or adding an item.",
+    "UniqueID": "ChristianG.FirstStardewMod",
+    "EntryDll": "First Stardew Mod.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
